@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Egorenko
 - 👀 I’m interested in math and cryptography
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Python
 - 📫 How to reach me egorenkovalenyina@gmail.com
 
 <!---
